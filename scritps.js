@@ -1,7 +1,6 @@
 
     
     const selectElement = document.getElementById("mySelect");
-    const imageContainer = document.getElementById("imageContainer");
     const selectedImage = document.getElementById("selectedImage");
 
 
