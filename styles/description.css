@@ -4,3 +4,21 @@
   justify-content: center;
   flex-direction: column;
 }
+
+.espacamento{
+  padding-bottom: 160px;
+  
+}
+
+
+.crop {
+  width: 5*300px;
+  height: 5*283px;
+  overflow: hidden;
+}
+
+.img1 {
+  width: 350px;
+  height: 200px;
+  margin: -50px 0 0 -100px;
+}
